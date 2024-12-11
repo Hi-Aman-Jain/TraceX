@@ -4,7 +4,7 @@
 TraceX is a Salesforce-based application that enables organizations to manage contact tracing data. The project provides the necessary custom objects and metadata to set up the core contact tracing functionality within a Salesforce environment.
 
 <p align="center">
-  <img src="/screenshots/screenshots.png" alt="SS" width="800">
+  <img src="/screenshots.png" alt="SS" width="800">
 </p>
 
 ## Key Features
